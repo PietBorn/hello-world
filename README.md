@@ -1,2 +1,4 @@
 # hello-world
-short description:project for learning
+Hi everybody I like my family, our cat I like potatoes,
+
+This i like very nice.
